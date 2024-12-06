@@ -8,7 +8,6 @@
 
 equations example:
 $$
-\begin{aligned}
 \frac{1}{\omega_s} \frac{d \psi_d}{d t}= & R_s I_d+\frac{\omega}{\omega_s} \psi_q+V_d \\
 \frac{1}{\omega_s} \frac{d \psi_q}{d t}= & R_s I_q-\frac{\omega}{\omega_s} \psi_d+V_q \\
 \frac{1}{\omega_s} \frac{d \psi_o}{d t}= & R_s I_o+V_o \\
@@ -18,7 +17,6 @@ T_{d o}^{\prime \prime} \frac{d \psi_{1 d}}{d t}= & -\psi_{1 d}+E_q^{\prime}-\le
 T_{q o}^{\prime} \frac{d E_d^{\prime}}{d t}= & -E_d^{\prime}+\left(X_q-X_q^{\prime}\right)\left[I_q-\frac{X_q^{\prime}-X_q^{\prime \prime}}{\left(X_q^{\prime}-X_{\ell s}\right)^2}\left(\psi_{2 q}\right.\right. \\
 & \left.\left.+\left(X_q^{\prime}-X_{\ell s}\right) I_q+E_d^{\prime}\right)\right] \\
 T_{q o}^{\prime \prime} \frac{d \psi_{2 q}}{d t}= & -\psi_{2 q}-E_d^{\prime}-\left(X_q^{\prime}-X_{\ell s}\right) I_q
-\end{aligned}
 $$
 
 Illustrator:
